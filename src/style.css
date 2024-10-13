@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+   p{
+    text-align: center;
+   }
+   
+   .images{
+    height: 250px;
+    width: fit-content;
+    background-color: antiquewhite;
+    border: 2px rgb(175, 175, 48) solid;
+    border-radius: 10px;
+   }
+   .img1{
+    height: 200px;
+    width: 250px;
+    cursor: pointer;
+    padding: 10px;
+   }
+   .img_section{
+     display: flex;
+     flex-wrap: wrap;
+     padding: 50px;
+     gap: 50px;
+     justify-content: space-around;
+     background-color: rgb(211, 211, 142) ;
+     
+     
+     
+
+     
+    
+
+
+     
+     
+   }
+   
